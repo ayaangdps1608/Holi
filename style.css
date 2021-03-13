@@ -1,0 +1,27 @@
+.b{
+    height: 50%;
+}
+body{
+    text-align: center;
+    background: rgb(0,254,255);
+    background: radial-gradient(circle, rgba(0,254,255,1) 0%, rgba(214,238,34,1) 50%, rgba(216,74,74,1) 84%);
+}
+.sc{
+    margin-top: inherit;
+    font-size: 18px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+.c{
+   background-color: lime;
+    color: gold;
+}
+.ht{
+    font-family: 'Ranchers', cursive;
+    background: radial-gradient(circle, rgba(0,254,255,1) 0%, rgba(214,238,34,1) 50%, rgba(216,74,74,1) 84%);
+}
+.hss{
+  background: radial-gradient(circle, rgba(0,254,255,1) 0%, rgba(214,238,34,1) 50%, rgba(216,74,74,1) 84%);  
+}
+.s{
+margin-top: 40px;
+}
